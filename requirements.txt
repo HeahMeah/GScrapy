@@ -2,4 +2,3 @@ streamlit
 bs4
 googlesearch-python
 streamlit-authenticator==0.1.5 
-pickle
